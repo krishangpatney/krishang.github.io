@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Programming',  url: 'programming'}
 - {name: 'Design', url: 'design'}
-- {name: 'Photography', url: 'photography'}
+# - {name: 'Photography', url: 'photography'}
 - {name: 'University', url: 'university'}
 # - {name: 'Contact', url: 'contact'}
 - {name: 'About', url: 'about'}
