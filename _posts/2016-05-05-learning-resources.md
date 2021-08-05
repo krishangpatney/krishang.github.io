@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: "Learning Resources"
 author: "Paul Le"
 categories: resources
